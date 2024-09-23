@@ -17,5 +17,5 @@ The Dynamic AI Investment Advisor is an interactive chatbot designed to provide 
 - Matplotlib
 
 ## Link to My Google Colab Notebook
-[Dynamic AI Investment Advisor Colab Notebook](https://colab.research.google.com/drive/1c3-ARpmOseMXlZWsWE1sivq3KMgrKpz3?usp=sharing)
+[Click heere](https://colab.research.google.com/drive/1c3-ARpmOseMXlZWsWE1sivq3KMgrKpz3?usp=sharing)
 
